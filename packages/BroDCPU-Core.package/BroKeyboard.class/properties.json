@@ -1,0 +1,18 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:25:52.927",
+	"instvars" : [
+		"cpu",
+		"characterBuffer",
+		"keyMapping",
+		"areInterruptsEnabled",
+		"interruptMessage" ],
+	"name" : "BroKeyboard",
+	"pools" : [
+		 ],
+	"super" : "BroDevice",
+	"type" : "normal" }

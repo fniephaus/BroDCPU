@@ -1,0 +1,3 @@
+constants
+cpuYieldCycles
+	^ 150

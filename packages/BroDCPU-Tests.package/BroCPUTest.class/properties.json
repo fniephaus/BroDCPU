@@ -1,0 +1,14 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu" ],
+	"name" : "BroCPUTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

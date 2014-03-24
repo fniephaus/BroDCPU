@@ -1,0 +1,18 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:23:20.484",
+	"instvars" : [
+		"generalPurposeRegisters",
+		"sp",
+		"pc",
+		"ex",
+		"ia" ],
+	"name" : "BroRegisterBank",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

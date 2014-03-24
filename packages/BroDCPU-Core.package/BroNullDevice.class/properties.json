@@ -1,0 +1,14 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:07:38.997",
+	"instvars" : [
+		 ],
+	"name" : "BroNullDevice",
+	"pools" : [
+		 ],
+	"super" : "BroDevice",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 14:50:44.687",
+	"instvars" : [
+		"ram",
+		"registerBank",
+		"operations",
+		"specialOperations",
+		"hardware",
+		"interruptQueue",
+		"mainloopProcess",
+		"justProcessedInterrupt",
+		"skipsNextInstruction" ],
+	"name" : "BroCPU",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

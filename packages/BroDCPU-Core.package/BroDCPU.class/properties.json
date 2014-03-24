@@ -1,0 +1,17 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 14:52:52.17",
+	"instvars" : [
+		"cpu",
+		"editorTextMorph",
+		"keyboard",
+		"display" ],
+	"name" : "BroDCPU",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

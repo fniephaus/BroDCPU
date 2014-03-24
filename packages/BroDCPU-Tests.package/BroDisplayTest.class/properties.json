@@ -1,0 +1,15 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"display",
+		"ram" ],
+	"name" : "BroDisplayTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

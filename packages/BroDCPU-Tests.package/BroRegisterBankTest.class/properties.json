@@ -1,0 +1,14 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registerBank" ],
+	"name" : "BroRegisterBankTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

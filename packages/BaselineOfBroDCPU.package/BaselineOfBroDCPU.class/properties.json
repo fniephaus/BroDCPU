@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBroDCPU",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBroDCPU",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

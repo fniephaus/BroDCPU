@@ -1,0 +1,16 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registerBank",
+		"clock",
+		"interruptQueue" ],
+	"name" : "BroClockTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+constants
+cpuWaitMilliseconds
+	^ 1

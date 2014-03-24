@@ -1,0 +1,3 @@
+constants
+specialOperationAmount
+	^ 32

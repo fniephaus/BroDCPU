@@ -1,0 +1,15 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu",
+		"keyboard" ],
+	"name" : "BroKeyboardTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

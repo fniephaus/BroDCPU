@@ -1,0 +1,19 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 14:59:02.852",
+	"instvars" : [
+		"isClockRunning",
+		"interruptQueue",
+		"internalClock",
+		"areInterruptsEnabled",
+		"interruptMessage",
+		"clockProcess" ],
+	"name" : "BroClock",
+	"pools" : [
+		 ],
+	"super" : "BroDevice",
+	"type" : "normal" }

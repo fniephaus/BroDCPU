@@ -1,0 +1,3 @@
+constants
+operationAmount
+	^ 33

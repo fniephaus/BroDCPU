@@ -1,0 +1,20 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:03:08.888",
+	"instvars" : [
+		"ram",
+		"cycles",
+		"colorPaletteAddress",
+		"fontAddress",
+		"usesDefaultFont",
+		"usesDefaultColorPalette",
+		"videoRAMAddress" ],
+	"name" : "BroDisplay",
+	"pools" : [
+		 ],
+	"super" : "BroDevice",
+	"type" : "normal" }

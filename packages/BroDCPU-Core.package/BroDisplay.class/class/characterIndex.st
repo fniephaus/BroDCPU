@@ -1,0 +1,3 @@
+constants
+characterIndex
+	^ 1

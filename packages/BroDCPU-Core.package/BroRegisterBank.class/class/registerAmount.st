@@ -1,0 +1,3 @@
+constants
+registerAmount
+	^ 8

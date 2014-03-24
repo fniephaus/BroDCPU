@@ -1,0 +1,3 @@
+constants
+blinkingIndex
+	^ 2

@@ -1,0 +1,3 @@
+constants
+foregroundIndex
+	^ 4

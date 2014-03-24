@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"frequencyToMilliseconds:" : "FN 7/21/2013 16:06:09.594",
+		"hardwareID" : "FN 7/21/2013 13:44:50.102",
+		"hardwareVendor" : "FN 7/21/2013 13:44:55.689",
+		"hardwareVersion" : "FN 7/21/2013 13:44:43.882",
+		"new:" : "PO 7/21/2013 19:19:15.641" },
+	"instance" : {
+		"areInterruptsEnabled" : "PO 7/21/2013 14:59:09.927",
+		"areInterruptsEnabled:" : "PO 7/21/2013 14:59:20.213",
+		"clockProcess" : "MR 6/15/2013 19:52:31.161",
+		"clockProcess:" : "MR 6/15/2013 19:52:31.173",
+		"clockProcessWithFrequency:" : "FN 7/21/2013 17:27:06.882",
+		"initialize" : "PO 7/21/2013 15:00:10.591",
+		"internalClock" : "MR 6/15/2013 19:28:24.761",
+		"internalClock:" : "PO 7/21/2013 14:57:52.573",
+		"interruptMessage" : "MR 6/26/2013 23:28:52.403",
+		"interruptMessage:" : "MR 6/26/2013 23:28:52.438",
+		"interruptQueue" : "MR 6/15/2013 19:24:40.012",
+		"interruptQueue:" : "MR 6/15/2013 19:24:40.022",
+		"isClockRunning" : "MR 6/15/2013 20:06:10.815",
+		"isClockRunning:" : "MR 6/15/2013 20:06:10.827",
+		"setupInterruptTable" : "FN 7/20/2013 19:16:01.178",
+		"startTicking:" : "PO 7/20/2013 22:13:02.49",
+		"stopTicking" : "PO 7/21/2013 18:11:51.334",
+		"storeNumberOfTicks:" : "PO 7/21/2013 18:12:18.693",
+		"toggleClock:" : "PO 7/21/2013 18:12:39.632",
+		"toggleInterrupts:" : "PO 7/21/2013 18:13:06.114" } }

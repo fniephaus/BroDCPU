@@ -1,0 +1,3 @@
+constants
+scalingFactor
+	^ 4

@@ -1,0 +1,15 @@
+{
+	"category" : "BroDCPU-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ram",
+		"cpu" ],
+	"name" : "BroParserTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

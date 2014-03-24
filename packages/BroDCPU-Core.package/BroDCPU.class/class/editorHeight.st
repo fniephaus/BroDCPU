@@ -1,0 +1,3 @@
+constants
+editorHeight
+	^ 100

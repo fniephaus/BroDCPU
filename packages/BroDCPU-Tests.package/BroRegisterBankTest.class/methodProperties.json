@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"registerBank" : "FN 6/6/2013 18:31:49.671",
+		"registerBank:" : "FN 6/6/2013 18:31:45.524",
+		"setUp" : "FN 6/25/2013 12:06:13.731",
+		"testIncrementDecrement" : "dw 7/21/2013 21:12:39.824",
+		"testSet" : "PO 7/21/2013 19:46:29.999",
+		"testSetEX" : "PO 7/21/2013 19:48:36.747",
+		"testSetError" : "PO 7/21/2013 19:47:43.036",
+		"testSetIA" : "PO 7/21/2013 19:48:01.319",
+		"testSetOverflow" : "PO 7/21/2013 19:49:27.08",
+		"testSetPC" : "PO 7/21/2013 19:49:43.321",
+		"testSetSP" : "PO 7/21/2013 19:49:06.526" } }

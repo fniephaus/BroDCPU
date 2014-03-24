@@ -1,0 +1,3 @@
+constants
+width
+	^ 128

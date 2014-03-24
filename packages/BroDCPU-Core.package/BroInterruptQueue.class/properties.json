@@ -1,0 +1,15 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:11:15.347",
+	"instvars" : [
+		"queue",
+		"isQueuingEnabled" ],
+	"name" : "BroInterruptQueue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

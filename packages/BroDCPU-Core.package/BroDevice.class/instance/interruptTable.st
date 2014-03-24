@@ -1,0 +1,3 @@
+accessing
+interruptTable
+	^ interruptTable

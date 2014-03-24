@@ -1,0 +1,18 @@
+{
+	"category" : "BroDCPU-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PO 7/21/2013 15:12:59.246",
+	"instvars" : [
+		"operations",
+		"specialOperations",
+		"values",
+		"labels",
+		"isExploringLabels" ],
+	"name" : "BroParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

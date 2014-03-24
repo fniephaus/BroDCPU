@@ -1,0 +1,3 @@
+interrupts
+setupInterruptTable
+	self subclassResponsibility.
