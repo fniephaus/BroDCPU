@@ -1,7 +1,0 @@
-{
-	"class" : {
-		"from:to:" : "" },
-	"instance" : {
-		"enumerateTo:" : "",
-		"initializeFirst:last:" : "",
-		"isEnumerable" : "" } }

@@ -1,3 +1,0 @@
-testing
-isNullable
-	^#syntaxAny ~~ kind
