@@ -16,4 +16,4 @@ DCPU-16 emulator written in Smalltalk
 
 ## Contributors
 
-Fabio Niephaus, Daniel Werner
+Fabio Niephaus, Daniel Werner, Philipp Otto
