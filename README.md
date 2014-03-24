@@ -12,3 +12,8 @@ DCPU-16 emulator written in Smalltalk
 - Compatible to [DCPU-16 Specification v1.7](http://dcpu.com/dcpu-16/)
 - Parser compatible to many ROMs
 - +90% code coverage
+
+
+## Contributors
+
+Fabio Niephaus, Daniel Werner
