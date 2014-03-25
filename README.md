@@ -2,7 +2,7 @@ BroDCPU
 =======
 [![Build Status](https://travis-ci.org/fniephaus/BroDCPU.svg?branch=master)](https://travis-ci.org/fniephaus/BroDCPU)
 
-DCPU-16 emulator written in Smalltalk
+DCPU-16 emulator written in Squeak Smalltalk
 
 ![BroDCPU Screenshot](https://raw.github.com/fniephaus/BroDCPU/master/screenshot.gif)
 
