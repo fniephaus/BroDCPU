@@ -5,6 +5,7 @@ env:
    - ST=Squeak-4.4
    - ST=Squeak-4.5
    - ST=Squeak-Trunk
+   - ST=PharoCore-1.3
 
 # Boilerplate ... should be no reason to edit the install section
 install:
