@@ -6,6 +6,20 @@ DCPU-16 emulator written in Squeak Smalltalk
 
 ![BroDCPU Screenshot](https://raw.github.com/fniephaus/BroDCPU/master/screenshot.gif)
 
+## How to install
+1. Make sure you have [metacello-work](https://github.com/dalehenrich/metacello-work) installed.
+2. Load the project with:
+```smalltalk
+Metacello new
+  baseline: 'BroDCPU';
+  repository: 'github://fniephaus/BroDCPU:master/packages';
+  onConflict: [:ex | ex allow];
+  load
+```
+3. Now you can just run the following code in your workspace:
+```smalltalk
+BroDCPU new openInHand
+```
 
 ## Features
 
