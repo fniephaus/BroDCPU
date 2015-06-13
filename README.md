@@ -23,7 +23,7 @@ BroDCPU new openInHand
 
 ## Features
 
-- Compatible to [DCPU-16 Specification v1.7](http://dcpu.com/dcpu-16/)
+- Compatible to [DCPU-16 Specification v1.7](https://raw.githubusercontent.com/gatesphere/demi-16/master/docs/dcpu-specs/dcpu-1-7.txt)
 - Parser compatible to many ROMs
 - +90% code coverage
 
