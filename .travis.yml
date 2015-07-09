@@ -19,7 +19,7 @@ addons:
     # - libkrb5support0:i386
     # - libkeyutils1:i386
     # Display
-    # - libx11-6:i386
+    - libx11-6:i386
     # - libgl1-mesa-swx11:i386
     # - libsm6:i386
 
