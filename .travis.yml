@@ -11,13 +11,6 @@ addons:
     - libc6:i386
     # UUIDPlugin
     - libuuid1:i386
-    # SqueakSSL
-    # - libkrb5-3:i386
-    # - libk5crypto3:i386
-    # - zlib1g:i386
-    # - libcomerr2:i386
-    # - libkrb5support0:i386
-    # - libkeyutils1:i386
     # Display
     - libx11-6:i386
     - libgl1-mesa-swx11:i386
