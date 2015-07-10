@@ -1,9 +1,12 @@
 language: erlang
-
 sudo: false
 
 env:
-- BASELINE=BroDCPU
+  global:
+    - BASELINE=BroDCPU
+  matrix:
+    - SMALLTALK="SqueakTrunk"
+    - SMALLTALK="Squeak4.5"
 
 addons:
   apt:
