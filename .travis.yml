@@ -8,6 +8,10 @@ env:
     - SMALLTALK="SqueakTrunk"
     - SMALLTALK="Squeak4.5"
 
+cache:
+  directories:
+  - $HOME/.filetreeCI
+
 addons:
   apt:
     packages:
