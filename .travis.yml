@@ -1,3 +1,4 @@
+language: erlang
 sudo: false
 
 env:
