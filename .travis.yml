@@ -1,4 +1,3 @@
-language: erlang
 sudo: false
 
 env:
@@ -23,7 +22,7 @@ addons:
 install:
    - export PROJECT_HOME="$(pwd)"
    - cd $HOME
-   - wget -q -O filetreeCI.zip https://github.com/fniephaus/filetreeCI/archive/master.zip
+   - wget -q -O filetreeCI.zip https://github.com/fniephaus/filetreeCI/archive/dev.zip
    - unzip -q filetreeCI.zip
    - cd filetreeCI-*
    - export FILETREE_CI_HOME="$(pwd)"
